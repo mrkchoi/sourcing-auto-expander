@@ -1,0 +1,23 @@
+{
+  "name": "LI Recruiter - Experience Auto-Expander (Toggle)",
+  "description": "Automatically clicks 'Show all (#)' in the Experience section on LinkedIn profiles. Click the icon to toggle. Author: Kenneth Choi.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "LI Recruiter Auto-Expander",
+    "default_icon": {
+      "16": "eyes16.png",
+      "48": "eyes48.png",
+      "128": "eyes128.png"
+    }
+  },
+  "icons": {
+    "16": "eyes16.png",
+    "48": "eyes48.png",
+    "128": "eyes128.png"
+  }
+}
