@@ -11,7 +11,8 @@ Currently supports:
 ## 🚀 Install Guide
 
 ### **1) Download**
-Download the `.zip` file for this code repo
+Download the `.zip` file for this code repo (click green "Code" button)
+<img width="957" height="535" alt="Screenshot 2025-11-03 at 9 54 53 AM" src="https://github.com/user-attachments/assets/8ef0da17-8eae-48a5-a5a0-f805aed6a323" />
 
 ### **2) Unzip the File**
 - Double-click the `.zip`
