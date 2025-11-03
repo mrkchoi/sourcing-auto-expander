@@ -1,6 +1,6 @@
 {
-  "name": "LI Recruiter - Experience Auto-Expander (Toggle)",
-  "description": "Automatically clicks 'Show all (#)' in the Experience section on LinkedIn profiles. Click the icon to toggle. Author: Kenneth Choi.",
+  "name": "Sourcing Auto-Expander",
+  "description": "A lightweight Chrome extension that automatically expands experience & education sections across sourcing platforms — so you can review profiles faster without extra clicks. Author: Kenneth Choi.",
   "version": "1.0.0",
   "manifest_version": 3,
   "permissions": ["activeTab", "scripting", "storage", "tabs"],
@@ -8,7 +8,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "LI Recruiter Auto-Expander",
+    "default_title": "Sourcing Auto-Expander",
     "default_icon": {
       "16": "eyes16.png",
       "48": "eyes48.png",
