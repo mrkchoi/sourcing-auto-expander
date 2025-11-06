@@ -4,6 +4,7 @@ A lightweight Chrome extension that automatically expands experience & education
 
 Currently supports:
 - **LinkedIn Recruiter**
+- **Public LinkedIn Profiles**
 - **Humanly**
 
 ---
