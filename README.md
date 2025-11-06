@@ -92,6 +92,15 @@ Humanly | Auto-expands Experience & Education |
 
 ---
 
+## Changelog:
+
+11/6/2025:
+- Expand profiles immediately on initial toggle (instead of after interval period)
+- Save toggle state between refreshes (per tab memory)
+- Add support for public LinkedIn profiles
+
+---
+
 ## 🤝 Contributing
 Have ideas or want to add support for another sourcing platform?
 
